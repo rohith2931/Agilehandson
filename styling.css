@@ -1,6 +1,7 @@
 /*styling.css*/
 body {
     background: linear-gradient(#000000,#ffffff);
+    background-repeat: no-repeat;
     font: Arial, Helvetica, sans-serif;
 }
 
